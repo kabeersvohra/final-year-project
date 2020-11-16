@@ -1,0 +1,47 @@
+\section{Project Plan}
+\subsection{Interim Report}
+The interim report is the first section of the project, it is due on 26th January and no work on the code of the project will commence before the report is handed in.
+\subsection{Basic Classifier}
+The first element of the project is to implement a basic classifier. This should take the months of February and March and will be modular. The classifier will take in a downloaded version of the page and the URL. It will output a basic initial binary classification as to whether the page is suspected to be phishing.
+\\\\
+The basic classifier will implement one of the URL checking methodologies in the literature as an initial module. It is also important to note that exams are in March so development will be heavily reduced during this time.
+\subsection{DOM Tree Classification}
+During the months of April and May the DOM tree classification using elements of Modal Logic will be implemented.
+\\\\
+According to Marco Cova et al.~\cite{freephish} new upcoming phishing kits are usually similar derivations of current kits and usually the DOM trees of pages computed with the same kits or new derivatives are similar. Therefore we think that if we compare the DOM tree of new pages against DOM trees of identified phishing pages we should be able to detect a large number of pages quickly and effectively.
+\\\\
+The implementation plan is:
+\begin{enumerate}[label*=\arabic*.]
+  \item Take two DOM trees to compare $T1$ and $T2$ and compute set $S = T1 \times T2$ which is a set of all potential pairs of nodes between the two trees
+  \item We then assign a weighting to all nodes in set S to 0
+  \item We compute a set S' with weighting 1 which is a subset of S using the algorithm below
+  \begin{enumerate}[label*=\arabic*.]
+    \item Make sure that the elements agree on atoms (we can do this using any metric we choose on two HTML nodes)
+    \item For each immediate descendant $u1$ of $t1 \in T1$, there is an immediate descendant $u2$ of $t2 \in T2$ with $(u1,u2) \in X$
+    \item For each immediate descendant $u2$ of $t2 \in T2$, there is an immediate descendant $u1$ of $t1 \in T1$ with $(u1,u2) \in X$
+  \end{enumerate}
+  \item We then take $f(X) = \{(t1, t2) \in X:(t1,t2) \texttt{ is good}\}$ which is monotonic
+  \item We repeat steps 3 and 4 each time incrementing the weighting until we reach a fixed point, we then compute a metric on the resultant set with the weighting to give the trees a score of likeness to each other.
+\end{enumerate}
+We use the resultant score achieved as a module in our basic classifier
+\subsection{Screenshot-Based Classification}
+This module is an extension to the project which will be implemented if the above sections take less time than anticipated. The main idea is that a large proportion of phishing pages will imitate the brand rather than imitating page itself since the victims are not necessarily looking for pages they recognise. We think that when imitating the brand or the page, the phishing page will have to contain the logo of the target brand.
+\\\\
+As mentioned above, according to the APWG~\cite{apwg} there were a total of 640 unique brands targeted and a few hundred companies attacked regularly. This means that we should be able to write a script which can obtain logos and nameservers of all of the legitimate brands.
+\\\\
+We can then use a derivation of Template matching which would allow us to detect the logos accurately against screenshots of the page to detect which brand the page was targeting. Once we have a match we could then check that the nameservers of the page comply with the data we have scraped, if these do not match then we would class the page as phishing.
+\subsection{Report}
+The month of June and the end of May will be dedicated to the report. The report is due on 18th June.
+\newpage
+\section{Evaluation Plan}
+There are two main aims for this project, to make a classifier that is accurate and one that classifies quickly. Ideally we would like to classify the page in under 5 seconds whilst retaining over 97\% accuracy. Current solutions generally have a high sensitivity, for example Cantina~\cite{cantina} but have a difficult time with false positives. The aim with this architecture is that new methodologies can be implemented as modules allowing the system to constantly improve.
+\\\\
+For the running of the system, we will be provided with data sets from our partners at Lastline. This will include various verified phishing pages as well as those which still need to be classified in various formats. The data on PhishTank~\cite{phishtank} is a live source of pages which are identified by security professionals in real time. This will be a good training source of verified phishing pages as well as data to test our classifier.
+\\\\
+The system will be aimed at researchers and will be a command line interface, ease-of-use is not a top priority. We hope that the system will be able to improve the current literature and if we are able to achieve a higher classification rate or a faster solution with similar classification rates then we would deem the project a success.
+\\\\
+We appreciate that the project is very ambitious and thus there is a high probability that it may not be completed in the time available. Therefore the development will be approached in a staged manner, such that we are able to deliver a basic system which can be continually be improved upon as we meet each milestone. This should allow for an easily extendable solution by the end of the project.
+\\\\
+We also have concerns with some of the technical aspects of the system and whether or not the solutions are feasible or may improve classification at all. This is a common concern of projects of this nature and we will be ready to pivot the project at any point if the solutions are not working as intended or simply are not good solutions to the problem. Specifically it is as yet unclear if; it will be possible to match the logos on the page screenshots with affine transformations, or to compute the cross products of the DOM trees in a reasonable time-frame.
+\\\\
+We believe that these concerns are typical of similar projects in the field. Even if the project does not succeed, it should be a good reference to researchers who attempt to tackle this problem in the future.
