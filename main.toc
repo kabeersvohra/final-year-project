@@ -1,0 +1,125 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Contributions}{4}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Evaluation Techniques}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Sensitivity and Specificity}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Confusion Matrix}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Complementary Cumulative Distributions}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Binary and Multiclass}{6}{section.2.4}%
+\contentsline {section}{\numberline {2.5}ROC Curves}{7}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Cross-Validation}{7}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Current State of Phishing}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Primarily Affected Industries}{8}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Payment}{8}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Financial}{8}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Webmail}{9}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Attack Characteristics}{9}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Lifetime}{9}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Phishing Kits}{9}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}PHP}{10}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}URL Obfuscation}{11}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Data Exfiltration}{12}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}PageRank}{12}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}Defence Mechanisms}{13}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Browser Extensions}{13}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Blacklists}{13}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Reporting}{14}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}URL Checking}{14}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Honeypots}{15}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Hosting}{15}{subsection.3.3.6}%
+\contentsline {chapter}{\numberline {4}Proposal}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Deployment}{18}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Implementation Technologies}{20}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Machine Learning}{20}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Feature Extractors}{20}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Pipelines}{20}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Classifiers}{20}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Linear Regression}{21}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Logistic Regression}{21}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Stochastic Gradient Descent}{21}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Decision Tree Classifier}{21}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}Random Forest Classifier}{22}{subsection.5.1.8}%
+\contentsline {subsection}{\numberline {5.1.9}N-Grams}{22}{subsection.5.1.9}%
+\contentsline {subsection}{\numberline {5.1.10}Scikit}{22}{subsection.5.1.10}%
+\contentsline {section}{\numberline {5.2}Modal Logic}{23}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Kripke Model}{23}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Monotonicity}{23}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Fixed Points}{24}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Bisimulations}{24}{subsection.5.2.4}%
+\contentsline {section}{\numberline {5.3}Page Comparison Techniques}{25}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Hamming distance}{25}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}TF-IDF}{25}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}DOM Trees}{26}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}Image Comparison Techniques}{27}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Template Matching}{27}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Affine Transformations}{27}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}FasT Matching}{27}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Cascade Classification}{27}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.4.5}Haar Classifier}{28}{subsection.5.4.5}%
+\contentsline {subsection}{\numberline {5.4.6}Local Binary Patterns Classifier}{29}{subsection.5.4.6}%
+\contentsline {subsection}{\numberline {5.4.7}OpenCV}{29}{subsection.5.4.7}%
+\contentsline {section}{\numberline {5.5}Web Capture}{30}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}WARC}{30}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Common Crawl}{30}{subsection.5.5.2}%
+\contentsline {section}{\numberline {5.6}Client Server Architecture}{30}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}TCP}{30}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}Flask}{31}{subsection.5.6.2}%
+\contentsline {chapter}{\numberline {6}Implementation}{32}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Candidate URL Collection}{32}{section.6.1}%
+\contentsline {section}{\numberline {6.2}WARC Parsing}{33}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Pipeline using Cantina and DOM Comparison}{34}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Pipeline}{35}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}TF-IDF}{35}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Google}{36}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}DOM Comparison}{37}{subsection.6.3.4}%
+\contentsline {section}{\numberline {6.4}Current Pipeline}{38}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Item Selectors}{38}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}N-Grams}{39}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}URL Vectorizer}{40}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.4.4}Word Frequency Vectorizer}{45}{subsection.6.4.4}%
+\contentsline {subsection}{\numberline {6.4.5}Status Vectorizer}{45}{subsection.6.4.5}%
+\contentsline {subsection}{\numberline {6.4.6}HTML Vectorizer}{46}{subsection.6.4.6}%
+\contentsline {subsection}{\numberline {6.4.7}Resource Vectorizer}{48}{subsection.6.4.7}%
+\contentsline {subsection}{\numberline {6.4.8}Screenshot Vectorizer}{48}{subsection.6.4.8}%
+\contentsline {subsection}{\numberline {6.4.9}Image Resources Vectorizer}{56}{subsection.6.4.9}%
+\contentsline {section}{\numberline {6.5}Client Server Architecture}{56}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Batch Script Execution}{56}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}VMware EXSi}{57}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}SSH}{57}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Super Computers}{57}{subsection.6.6.3}%
+\contentsline {section}{\numberline {6.7}Issues}{58}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}HTTPS Upgrades}{58}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}OpenCV Memory Leak}{58}{subsection.6.7.2}%
+\contentsline {chapter}{\numberline {7}Evaluation}{59}{chapter.7}%
+\contentsline {section}{\numberline {7.1}URL Collection}{59}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Data Structure}{62}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Ensemble Selection}{62}{section.7.3}%
+\contentsline {section}{\numberline {7.4}N-Grams}{63}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Word Frequency}{64}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Logo Detection}{65}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Feature Importance}{66}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Classification Rate}{67}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Performance Evaluation}{68}{section.7.9}%
+\contentsline {section}{\numberline {7.10}Comparison with Current Methods}{69}{section.7.10}%
+\contentsline {section}{\numberline {7.11}Overfitting}{70}{section.7.11}%
+\contentsline {subsection}{\numberline {7.11.1}K-Fold Cross Validation}{71}{subsection.7.11.1}%
+\contentsline {subsection}{\numberline {7.11.2}Balance}{71}{subsection.7.11.2}%
+\contentsline {section}{\numberline {7.12}Misclassifications}{72}{section.7.12}%
+\contentsline {subsection}{\numberline {7.12.1}URL}{72}{subsection.7.12.1}%
+\contentsline {subsection}{\numberline {7.12.2}HTML}{74}{subsection.7.12.2}%
+\contentsline {subsection}{\numberline {7.12.3}Screenshot}{75}{subsection.7.12.3}%
+\contentsline {chapter}{\numberline {8}Conclusion}{76}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Summary}{76}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Future Work}{77}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Further Resource Analysis}{77}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Searching}{77}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Safe Browsing}{78}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}DNS Checking}{78}{subsection.8.2.4}%
+\contentsline {subsection}{\numberline {8.2.5}Live Model Training}{78}{subsection.8.2.5}%
+\contentsline {subsection}{\numberline {8.2.6}DOM Comparison}{79}{subsection.8.2.6}%
+\contentsline {subsection}{\numberline {8.2.7}Automatic Logo Training}{79}{subsection.8.2.7}%
+\contentsline {subsection}{\numberline {8.2.8}Script Analysis}{79}{subsection.8.2.8}%
+\contentsline {chapter}{Bibliography}{81}{subsection.8.2.8}%
+\contentsline {chapter}{\numberline {A}Appendices}{85}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Misclassified URLs}{85}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Feature Importance}{95}{section.A.2}%

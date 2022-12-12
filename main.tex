@@ -11,7 +11,7 @@
 \usepackage[margin=1.2in]{geometry}
 \renewcommand{\baselinestretch}{1.4}
 \newcommand{\powerset}{\raisebox{.15\baselineskip}{\Large\ensuremath{\wp}}}
-\usepackage{multirow,array,cite,graphicx,amsmath,epigraph,amsfonts,enumitem,easytable}
+\usepackage{multirow,array,graphicx,amsmath,epigraph,amsfonts,enumitem,easytable}
 \PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
 \setcounter{tocdepth}{4}
 \setcounter{secnumdepth}{4}
@@ -22,8 +22,7 @@
 \newpagestyle{mystyle}
 {\sethead[\thepage][][\chaptertitle]{}{}{\thepage}}
 \pagestyle{mystyle}
-% \usepackage[nottoc,numbib]{tocbibind}
-\usepackage{biblatex}
+\usepackage[backend=biber]{biblatex}
 \addbibresource{bibliography.bib}
 \usepackage{tablefootnote}
 \usepackage{longtable}

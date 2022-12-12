@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'main.t.blg'
+[89] biber:340> INFO - === Thu Dec  1, 2022, 15:14:34
+[175] Utils.pm:398> ERROR - Cannot find 'main.t.bcf'!
+[175] Biber.pm:135> INFO - ERRORS: 1

@@ -1,0 +1,1331 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{affinetransform}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{title}{{Affine Transformation - MATLAB {\&} Simulink}}
+      \field{urlday}{20}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://uk.mathworks.com/discovery/affine-transformation.html
+      \endverb
+      \verb{url}
+      \verb https://uk.mathworks.com/discovery/affine-transformation.html
+      \endverb
+    \endentry
+    \entry{beautifulsoup}{misc}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{title}{{Beautiful Soup Documentation — Beautiful Soup 4.4.0 documentation}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+      \endverb
+      \verb{url}
+      \verb https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+      \endverb
+    \endentry
+    \entry{bing}{misc}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{title}{{Bing}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bing.com/
+      \endverb
+      \verb{url}
+      \verb https://www.bing.com/
+      \endverb
+    \endentry
+    \entry{bitcoin}{misc}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{title}{{Bitcoin.com | Bitcoin News and Technology Source}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bitcoin.com/
+      \endverb
+      \verb{url}
+      \verb https://www.bitcoin.com/
+      \endverb
+    \endentry
+    \entry{bnc}{misc}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{title}{British National Corpus}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.natcorp.ox.ac.uk/
+      \endverb
+      \verb{url}
+      \verb http://www.natcorp.ox.ac.uk/
+      \endverb
+    \endentry
+    \entry{spamclassifier}{misc}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{title}{{Building a Spam Filter Using Machine Learning}}
+      \field{urlday}{30}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.booleanworld.com/building-spam-filter-using-machine-learning/
+      \endverb
+      \verb{url}
+      \verb https://www.booleanworld.com/building-spam-filter-using-machine-learning/
+      \endverb
+    \endentry
+    \entry{cascadeclassification}{misc}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{{Cascade Classification — OpenCV 2.4.13.6 documentation}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.opencv.org/2.4/modules/objdetect/doc/cascade{\_}classification.html
+      \endverb
+      \verb{url}
+      \verb https://docs.opencv.org/2.4/modules/objdetect/doc/cascade%7B%5C_%7Dclassification.html
+      \endverb
+    \endentry
+    \entry{lbpclassification}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4ae73d9af76d7a278a250b3e39c90b63}{%
+           family={Chang-yeon},
+           familyi={C\bibinithyphendelim y\bibinitperiod},
+           given={Jo},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ae73d9af76d7a278a250b3e39c90b63}
+      \strng{fullhash}{4ae73d9af76d7a278a250b3e39c90b63}
+      \strng{bibnamehash}{4ae73d9af76d7a278a250b3e39c90b63}
+      \strng{authorbibnamehash}{4ae73d9af76d7a278a250b3e39c90b63}
+      \strng{authornamehash}{4ae73d9af76d7a278a250b3e39c90b63}
+      \strng{authorfullhash}{4ae73d9af76d7a278a250b3e39c90b63}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Accessed 28/05/18}
+      \field{booktitle}{Stanford.Edu}
+      \field{title}{{Face Detection using LBP features}}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb http://cs229.stanford.edu/proj2008/Jo-FaceDetectionUsingLBPfeatures.pdf
+      \endverb
+      \verb{url}
+      \verb http://cs229.stanford.edu/proj2008/Jo-FaceDetectionUsingLBPfeatures.pdf
+      \endverb
+    \endentry
+    \entry{commoncrawl}{misc}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{{Common Crawl}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://commoncrawl.org/
+      \endverb
+      \verb{url}
+      \verb http://commoncrawl.org/
+      \endverb
+    \endentry
+    \entry{conda}{misc}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{{Conda - Conda Documentation}}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://conda.io/docs/
+      \endverb
+      \verb{url}
+      \verb https://conda.io/docs/
+      \endverb
+    \endentry
+    \entry{freephish}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=58cf26235722042ea9cafbaba4ff75e7}{%
+           family={Cova},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=29f47d021ef5bce835065282584a65aa}{%
+           family={Krügel},
+           familyi={K\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4a1c8af0d630f0ef331649aa8bbb3fbd}{%
+           family={Vigna},
+           familyi={V\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{114ea877e95c8f0623b16540134b2995}
+      \strng{fullhash}{114ea877e95c8f0623b16540134b2995}
+      \strng{bibnamehash}{114ea877e95c8f0623b16540134b2995}
+      \strng{authorbibnamehash}{114ea877e95c8f0623b16540134b2995}
+      \strng{authornamehash}{114ea877e95c8f0623b16540134b2995}
+      \strng{authorfullhash}{114ea877e95c8f0623b16540134b2995}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{WOOT}
+      \field{title}{There Is No Free Phish: An Analysis of "Free" and Live Phishing Kits}
+      \field{year}{2008}
+    \endentry
+    \entry{phishingovertime}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=73e4ce5eaffa37379a07572b78327e8a}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=0a4942ec9c5673d682f8e91f70be000b}{%
+           family={Jourdan},
+           familyi={J\bibinitperiod},
+           given={Guy-Vincent},
+           giveni={G\bibinithyphendelim V\bibinitperiod}}}%
+        {{hash=c7f90a576732626acc525fb9ea4a3409}{%
+           family={Bochmann},
+           familyi={B\bibinitperiod},
+           given={Gregor\bibnamedelima V.},
+           giveni={G\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=1fd83399bfa20b304dc0fd0bff6891b2}{%
+           family={Couturier},
+           familyi={C\bibinitperiod},
+           given={Russell},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ecb6fb0d811e7d8b2adf971070604142}{%
+           family={Onut},
+           familyi={O\bibinitperiod},
+           given={Iosif-Viorel},
+           giveni={I\bibinithyphendelim V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, New York, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{80706d2e456dc00280f45d1ac654e196}
+      \strng{fullhash}{bd2b3b4c65c875bd80adcc17bdb55eae}
+      \strng{bibnamehash}{80706d2e456dc00280f45d1ac654e196}
+      \strng{authorbibnamehash}{80706d2e456dc00280f45d1ac654e196}
+      \strng{authornamehash}{80706d2e456dc00280f45d1ac654e196}
+      \strng{authorfullhash}{bd2b3b4c65c875bd80adcc17bdb55eae}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 26th International Conference on World Wide Web - WWW '17}
+      \field{isbn}{9781450349130}
+      \field{title}{{Tracking Phishing Attacks Over Time}}
+      \field{year}{2017}
+      \field{pages}{667\bibrangedash 676}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/3038912.3052654
+      \endverb
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?doid=3038912.3052654
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?doid=3038912.3052654
+      \endverb
+      \keyw{clustering,phishing detection}
+    \endentry
+    \entry{cython}{misc}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{{Cython}}
+      \field{urlday}{30}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://cython.org/
+      \endverb
+      \verb{url}
+      \verb http://cython.org/
+      \endverb
+    \endentry
+    \entry{duckduckgo}{misc}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{title}{{DuckDuckGo — Privacy, simplified.}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://duckduckgo.com/
+      \endverb
+      \verb{url}
+      \verb https://duckduckgo.com/
+      \endverb
+    \endentry
+    \entry{phishpunch}{misc}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{title}{{EmergingThreats/phishpunch}}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/EmergingThreats/phishpunch
+      \endverb
+      \verb{url}
+      \verb https://github.com/EmergingThreats/phishpunch
+      \endverb
+    \endentry
+    \entry{mlclassifiers}{misc}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{title}{{Essentials of Machine Learning Algorithms (with Python and R Codes)}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+      \endverb
+      \verb{url}
+      \verb https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+      \endverb
+    \endentry
+    \entry{emergingthreats}{misc}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{title}{{ET Intelligence}}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.proofpoint.com/uk/products/et-intelligence
+      \endverb
+      \verb{url}
+      \verb https://www.proofpoint.com/uk/products/et-intelligence
+      \endverb
+    \endentry
+    \entry{flann}{misc}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{title}{{Feature Matching with FLANN — OpenCV 2.4.13.6 documentation}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.opencv.org/2.4/doc/tutorials/features2d/feature{\_}flann{\_}matcher/feature{\_}flann{\_}matcher.html
+      \endverb
+      \verb{url}
+      \verb https://docs.opencv.org/2.4/doc/tutorials/features2d/feature%7B%5C_%7Dflann%7B%5C_%7Dmatcher/feature%7B%5C_%7Dflann%7B%5C_%7Dmatcher.html
+      \endverb
+    \endentry
+    \entry{effaciousarchitecture}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=4f6038cc0bd75530a427162629cee14b}{%
+           family={Gowtham},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4f35a30b6857d3ca3f75f35a75dc7b96}{%
+           family={Krishnamurthi},
+           familyi={K\bibinitperiod},
+           given={Ilango},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Advanced Technology}%
+      }
+      \strng{namehash}{924e41c9c4d96fb33e533320c92c8bbc}
+      \strng{fullhash}{924e41c9c4d96fb33e533320c92c8bbc}
+      \strng{bibnamehash}{924e41c9c4d96fb33e533320c92c8bbc}
+      \strng{authorbibnamehash}{924e41c9c4d96fb33e533320c92c8bbc}
+      \strng{authornamehash}{924e41c9c4d96fb33e533320c92c8bbc}
+      \strng{authorfullhash}{924e41c9c4d96fb33e533320c92c8bbc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-4048}
+      \field{journaltitle}{Computers {\&} Security}
+      \field{month}{2}
+      \field{title}{{A comprehensive and efficacious architecture for detecting phishing webpages}}
+      \field{volume}{40}
+      \field{year}{2014}
+      \field{pages}{23\bibrangedash 37}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/J.COSE.2013.10.004
+      \endverb
+      \verb{file}
+      \verb :home/kabeersvohra/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Gowtham, Krishnamurthi - 2014 - A comprehensive and efficacious architecture for detecting phishing webpages.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167404813001442
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167404813001442
+      \endverb
+    \endentry
+    \entry{phisheye}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=e455b4baac829220a95ebc58f137271d}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=2c17ae9f7698cd7086294a722d7d1294}{%
+           family={Kheir},
+           familyi={K\bibinitperiod},
+           given={Nizar},
+           giveni={N\bibinitperiod}}}%
+        {{hash=14cb44e160bd085923d2216f78867ae2}{%
+           family={Balzarotti},
+           familyi={B\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, New York, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{e4a58459f12b261e6b7f248ead08a5ab}
+      \strng{fullhash}{e4a58459f12b261e6b7f248ead08a5ab}
+      \strng{bibnamehash}{e4a58459f12b261e6b7f248ead08a5ab}
+      \strng{authorbibnamehash}{e4a58459f12b261e6b7f248ead08a5ab}
+      \strng{authornamehash}{e4a58459f12b261e6b7f248ead08a5ab}
+      \strng{authorfullhash}{e4a58459f12b261e6b7f248ead08a5ab}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security - CCS'16}
+      \field{isbn}{9781450341394}
+      \field{issn}{15437221}
+      \field{title}{{PhishEye}}
+      \field{year}{2016}
+      \field{pages}{1402\bibrangedash 1413}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/2976749.2978330
+      \endverb
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?doid=2976749.2978330
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?doid=2976749.2978330
+      \endverb
+    \endentry
+    \entry{visualsimilarity}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f58c53f4107d0f44c269dec36c000ce4}{%
+           family={Haruta},
+           familyi={H\bibinitperiod},
+           given={Shuichiro},
+           giveni={S\bibinitperiod}}}%
+        {{hash=21b0415d489a3c8bab54504621f992e4}{%
+           family={Asahina},
+           familyi={A\bibinitperiod},
+           given={Hiromu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=de142059138d61a17ee0c8f158922d70}{%
+           family={Sasase},
+           familyi={S\bibinitperiod},
+           given={Iwao},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a8d32619ba5fced570bed3c21f9ab8f7}
+      \strng{fullhash}{a8d32619ba5fced570bed3c21f9ab8f7}
+      \strng{bibnamehash}{a8d32619ba5fced570bed3c21f9ab8f7}
+      \strng{authorbibnamehash}{a8d32619ba5fced570bed3c21f9ab8f7}
+      \strng{authornamehash}{a8d32619ba5fced570bed3c21f9ab8f7}
+      \strng{authorfullhash}{a8d32619ba5fced570bed3c21f9ab8f7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{GLOBECOM 2017 - 2017 IEEE Global Communications Conference}
+      \field{isbn}{978-1-5090-5019-2}
+      \field{month}{12}
+      \field{title}{{Visual Similarity-Based Phishing Detection Scheme Using Image and CSS with Target Website Finder}}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/GLOCOM.2017.8254506
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/8254506/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/8254506/
+      \endverb
+    \endentry
+    \entry{modallogic}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6ff37954fea618fb896439aca6b79771}{%
+           family={Hodkinson},
+           familyi={H\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ff37954fea618fb896439aca6b79771}
+      \strng{fullhash}{6ff37954fea618fb896439aca6b79771}
+      \strng{bibnamehash}{6ff37954fea618fb896439aca6b79771}
+      \strng{authorbibnamehash}{6ff37954fea618fb896439aca6b79771}
+      \strng{authornamehash}{6ff37954fea618fb896439aca6b79771}
+      \strng{authorfullhash}{6ff37954fea618fb896439aca6b79771}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{499H | Faculty of Engineering | Imperial College London}}
+      \field{urlday}{20}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.imperial.ac.uk/computing/current-students/courses/499H/
+      \endverb
+      \verb{url}
+      \verb http://www.imperial.ac.uk/computing/current-students/courses/499H/
+      \endverb
+    \endentry
+    \entry{proofpoint}{misc}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{title}{{Hook, line, and sinker - A closer look at a sophisticated phishing kit | Proofpoint United Kingdom (GB)}}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.proofpoint.com/uk/threat-insight/post/hook-line-sinker-sophisticated-phishing-kit
+      \endverb
+      \verb{url}
+      \verb https://www.proofpoint.com/uk/threat-insight/post/hook-line-sinker-sophisticated-phishing-kit
+      \endverb
+    \endentry
+    \entry{whitehouse}{misc}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{title}{{How author Michael Wolff got his 'fly-on-the-wall' access to the Trump White House}}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eu.usatoday.com/story/news/politics/2018/01/04/how-author-michael-wolff-got-his-fly-wall-access-trump-white-house/1003673001
+      \endverb
+      \verb{url}
+      \verb https://eu.usatoday.com/story/news/politics/2018/01/04/how-author-michael-wolff-got-his-fly-wall-access-trump-white-house/1003673001
+      \endverb
+    \endentry
+    \entry{illegalfawn}{misc}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{title}{{IllegalFawn}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://twitter.com/illegalfawn
+      \endverb
+      \verb{url}
+      \verb https://twitter.com/illegalfawn
+      \endverb
+    \endentry
+    \entry{alexa}{misc}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeltitlesource}{title}
+      \field{title}{{Keyword Research, Competitive Analysis, {\&} Website Ranking | Alexa}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.alexa.com/
+      \endverb
+      \verb{url}
+      \verb https://www.alexa.com/
+      \endverb
+    \endentry
+    \entry{fastmatching}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=43f6d00d54a0cbbf9e6af0379d4dafb1}{%
+           family={Korman},
+           familyi={K\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=01a01ecd994f70c2f0fdbc90561c7501}{%
+           family={Reichman},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4b0d109d99c2e9be1c953a6053425e59}{%
+           family={Tsur},
+           familyi={T\bibinitperiod},
+           given={Gilad},
+           giveni={G\bibinitperiod}}}%
+        {{hash=477bdcd3c66a7104c37842872905df4b}{%
+           family={Avidan},
+           familyi={A\bibinitperiod},
+           given={Shai},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5ddcec8668a03d95ac945f3b7b1da7f0}
+      \strng{fullhash}{230b1a5985314ed6f71c4a1002a87602}
+      \strng{bibnamehash}{5ddcec8668a03d95ac945f3b7b1da7f0}
+      \strng{authorbibnamehash}{5ddcec8668a03d95ac945f3b7b1da7f0}
+      \strng{authornamehash}{5ddcec8668a03d95ac945f3b7b1da7f0}
+      \strng{authorfullhash}{230b1a5985314ed6f71c4a1002a87602}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 IEEE Conference on Computer Vision and Pattern Recognition}
+      \field{isbn}{978-0-7695-4989-7}
+      \field{month}{6}
+      \field{title}{{FasT-Match: Fast Affine Template Matching}}
+      \field{year}{2013}
+      \field{pages}{2331\bibrangedash 2338}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/CVPR.2013.302
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6619146/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6619146/
+      \endverb
+    \endentry
+    \entry{letsencrypt}{misc}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{title}{Lets Encrypt}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://letsencrypt.org/
+      \endverb
+      \verb{url}
+      \verb https://letsencrypt.org/
+      \endverb
+    \endentry
+    \entry{domtreestructure}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=030344d5f942f946fa4232ad5cbef0df}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Le\bibnamedelima Dang},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d3d4fc92fe35fdb53b0d5637d8afd8be}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Dac-Nhuong},
+           giveni={D\bibinithyphendelim N\bibinitperiod}}}%
+        {{hash=e143f0f5f0d468c50703afdc636d4d43}{%
+           family={Vinh},
+           familyi={V\bibinitperiod},
+           given={Le\bibnamedelima Trong},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, New York, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{f7aee39260baf7d674a5eb1f86940bf0}
+      \strng{fullhash}{f7aee39260baf7d674a5eb1f86940bf0}
+      \strng{bibnamehash}{f7aee39260baf7d674a5eb1f86940bf0}
+      \strng{authorbibnamehash}{f7aee39260baf7d674a5eb1f86940bf0}
+      \strng{authornamehash}{f7aee39260baf7d674a5eb1f86940bf0}
+      \strng{authorfullhash}{f7aee39260baf7d674a5eb1f86940bf0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Fifth Symposium on Information and Communication Technology - SoICT '14}
+      \field{isbn}{9781450329309}
+      \field{title}{{Detecting phishing web pages based on DOM-tree structure and graph matching algorithm}}
+      \field{year}{2014}
+      \field{pages}{280\bibrangedash 285}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/2676585.2676596
+      \endverb
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?doid=2676585.2676596
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?doid=2676585.2676596
+      \endverb
+      \keyw{DOM-tree,genetic algorithm,graph matching,phishing detection,tree matching}
+    \endentry
+    \entry{opencv}{misc}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{title}{{OpenCV library}}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://opencv.org/
+      \endverb
+      \verb{url}
+      \verb https://opencv.org/
+      \endverb
+    \endentry
+    \entry{openphish}{misc}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{title}{{OpenPhish}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openphish.com/
+      \endverb
+      \verb{url}
+      \verb https://openphish.com/
+      \endverb
+    \endentry
+    \entry{apwg}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{{Phishing Activity Trends Report 4Q 2017}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://docs.apwg.org/reports/apwg_trends_report_q4_2017.pdf
+      \endverb
+      \verb{url}
+      \verb http://docs.apwg.org/reports/apwg_trends_report_q4_2017.pdf
+      \endverb
+    \endentry
+    \entry{https}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{{Phishing Schemes Are Using HTTPS Encrypted Sites to Seem Legit | WIRED}}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wired.com/story/phishing-schemes-use-encrypted-sites-to-seem-legit/
+      \endverb
+      \verb{url}
+      \verb https://www.wired.com/story/phishing-schemes-use-encrypted-sites-to-seem-legit/
+      \endverb
+    \endentry
+    \entry{xudongs}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{{Phishing with Unicode Domains}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.xudongz.com/blog/2017/idn-phishing/
+      \endverb
+      \verb{url}
+      \verb https://www.xudongz.com/blog/2017/idn-phishing/
+      \endverb
+    \endentry
+    \entry{phishtank}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{{PhishTank | Join the fight against phishing}}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.phishtank.com/
+      \endverb
+      \verb{url}
+      \verb https://www.phishtank.com/
+      \endverb
+    \endentry
+    \entry{publicsuffix}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{{PublicSuffix}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pypi.org/project/publicsuffix/
+      \endverb
+      \verb{url}
+      \verb https://pypi.org/project/publicsuffix/
+      \endverb
+    \endentry
+    \entry{publicsuffixmozilla}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{{PublicSuffix}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://publicsuffix.org/
+      \endverb
+      \verb{url}
+      \verb https://publicsuffix.org/
+      \endverb
+    \endentry
+    \entry{pypi}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{{PyPI - the Python Package Index}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pypi.org/
+      \endverb
+      \verb{url}
+      \verb https://pypi.org/
+      \endverb
+    \endentry
+    \entry{captcha}{misc}{}
+      \field{sortinit}{r}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{title}{{reCAPTCHA: Easy on Humans, Hard on Bots}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.google.com/recaptcha/intro/v3beta.html
+      \endverb
+      \verb{url}
+      \verb https://www.google.com/recaptcha/intro/v3beta.html
+      \endverb
+    \endentry
+    \entry{layoutsimilarity}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=5125a634e0faecd2462d06897cfabf7f}{%
+           family={Rosiello},
+           familyi={R\bibinitperiod},
+           given={Angelo\bibnamedelimb P.\bibnamedelimi E.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=006bb466de86f839b385996132de44b0}{%
+           family={Kirda},
+           familyi={K\bibinitperiod},
+           given={Engin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d9ce444a06db69e6182a92eb6319fda8}{%
+           family={Kruegel},
+           familyi={K\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3f9809d49965033eb7ae52820f13191d}{%
+           family={Ferrandi},
+           familyi={F\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{626568dc88a472787a6b4dbbfcafb1fc}
+      \strng{fullhash}{53aff40a3a02e38b61cd01cb1bb8a295}
+      \strng{bibnamehash}{626568dc88a472787a6b4dbbfcafb1fc}
+      \strng{authorbibnamehash}{626568dc88a472787a6b4dbbfcafb1fc}
+      \strng{authornamehash}{626568dc88a472787a6b4dbbfcafb1fc}
+      \strng{authorfullhash}{53aff40a3a02e38b61cd01cb1bb8a295}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2007 Third International Conference on Security and Privacy in Communications Networks and the Workshops - SecureComm 2007}
+      \field{isbn}{978-1-4244-0974-7}
+      \field{title}{{A layout-similarity-based approach for detecting phishing pages}}
+      \field{year}{2007}
+      \field{pages}{454\bibrangedash 463}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/SECCOM.2007.4550367
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/4550367/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/4550367/
+      \endverb
+    \endentry
+    \entry{rsync}{misc}{}
+      \field{sortinit}{r}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{title}{{rsync}}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://rsync.samba.org/
+      \endverb
+      \verb{url}
+      \verb https://rsync.samba.org/
+      \endverb
+    \endentry
+    \entry{safebrowsing}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{{Safe Browsing – Google Safe Browsing}}
+      \field{urlday}{18}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://safebrowsing.google.com/
+      \endverb
+      \verb{url}
+      \verb https://safebrowsing.google.com/
+      \endverb
+    \endentry
+    \entry{faroo}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{{SeekStorm - Search as a Service}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://seekstorm.com/
+      \endverb
+      \verb{url}
+      \verb https://seekstorm.com/
+      \endverb
+    \endentry
+    \entry{templatematching}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Adaptive Vision}
+      \field{title}{{Template Matching}}
+      \field{urlday}{20}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.adaptive-vision.com/current/studio/machine{\_}vision{\_}guide/TemplateMatching.html http://docs.adaptive-vision.com/4.7/studio/machine{\_}vision{\_}guide/TemplateMatching.html
+      \endverb
+      \verb{url}
+      \verb https://docs.adaptive-vision.com/current/studio/machine%7B%5C_%7Dvision%7B%5C_%7Dguide/TemplateMatching.html%20http://docs.adaptive-vision.com/4.7/studio/machine%7B%5C_%7Dvision%7B%5C_%7Dguide/TemplateMatching.html
+      \endverb
+    \endentry
+    \entry{tfidf}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{{Tf-idf {\_}{\_} A Single-Page Tutorial - Information Retrieval and Text Mining}}
+      \field{urlday}{18}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.tfidf.com/
+      \endverb
+      \verb{url}
+      \verb http://www.tfidf.com/
+      \endverb
+    \endentry
+    \entry{tmux}{misc}{}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{{tmux/tmux: tmux source code}}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/tmux/tmux
+      \endverb
+      \verb{url}
+      \verb https://github.com/tmux/tmux
+      \endverb
+    \endentry
+    \entry{haarclassification}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=03e2a9b081a845bb9dbb7bb508516191}{%
+           family={Viola},
+           familyi={V\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3656094aa90ce6b5927293e625dedee3}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Comput. Soc}%
+      }
+      \strng{namehash}{227ecf38573bbc68c4d6e1852ffa83ff}
+      \strng{fullhash}{227ecf38573bbc68c4d6e1852ffa83ff}
+      \strng{bibnamehash}{227ecf38573bbc68c4d6e1852ffa83ff}
+      \strng{authorbibnamehash}{227ecf38573bbc68c4d6e1852ffa83ff}
+      \strng{authornamehash}{227ecf38573bbc68c4d6e1852ffa83ff}
+      \strng{authorfullhash}{227ecf38573bbc68c4d6e1852ffa83ff}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001}
+      \field{isbn}{0-7695-1272-0}
+      \field{title}{{Rapid object detection using a boosted cascade of simple features}}
+      \field{volume}{1}
+      \field{pages}{I--511--I\bibrangedash 518}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1109/CVPR.2001.990517
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/990517/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/990517/
+      \endverb
+    \endentry
+    \entry{vmwareexsi}{misc}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{title}{{VMware ESXi: The Purpose-Built Bare Metal Hypervisor}}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.vmware.com/uk/products/esxi-and-esx.html
+      \endverb
+      \verb{url}
+      \verb https://www.vmware.com/uk/products/esxi-and-esx.html
+      \endverb
+    \endentry
+    \entry{warc}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{title}{{WARC, Web ARChive file format}}
+      \field{urlday}{29}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.loc.gov/preservation/digital/formats/fdd/fdd000236.shtml
+      \endverb
+      \verb{url}
+      \verb https://www.loc.gov/preservation/digital/formats/fdd/fdd000236.shtml
+      \endverb
+    \endentry
+    \entry{warcio}{misc}{}
+      \field{sortinit}{w}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{title}{warcio}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pydigger.com/pypi/warcio
+      \endverb
+      \verb{url}
+      \verb https://pydigger.com/pypi/warcio
+      \endverb
+    \endentry
+    \entry{flask}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{title}{{Welcome | Flask (A Python Microframework)}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://flask.pocoo.org/
+      \endverb
+      \verb{url}
+      \verb http://flask.pocoo.org/
+      \endverb
+    \endentry
+    \entry{largescaleautomatic}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=43dac1a72438eedb951e15fb6aae26f7}{%
+           family={Whittaker},
+           familyi={W\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a7aed7dddee6b99dae4f5403e32574b5}{%
+           family={Ryner},
+           familyi={R\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8c3c8092d913aebd5158b94bf0f6b415}{%
+           family={Nazif},
+           familyi={N\bibinitperiod},
+           given={Marria},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Internet Society}%
+      }
+      \strng{namehash}{3ff391ac41888e10b9b1f558a0f958a1}
+      \strng{fullhash}{3ff391ac41888e10b9b1f558a0f958a1}
+      \strng{bibnamehash}{3ff391ac41888e10b9b1f558a0f958a1}
+      \strng{authorbibnamehash}{3ff391ac41888e10b9b1f558a0f958a1}
+      \strng{authornamehash}{3ff391ac41888e10b9b1f558a0f958a1}
+      \strng{authorfullhash}{3ff391ac41888e10b9b1f558a0f958a1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{NDSS}
+      \field{title}{Large-Scale Automatic Classification of Phishing Pages.}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb http://dblp.uni-trier.de/db/conf/ndss/ndss2010.html#WhittakerRN10
+      \endverb
+      \verb{url}
+      \verb http://dblp.uni-trier.de/db/conf/ndss/ndss2010.html#WhittakerRN10
+      \endverb
+      \keyw{dblp}
+    \endentry
+    \entry{cantina}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=b8238061b3c805be2a30dd55bb11fb21}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0a4da858979600985e15a1565d440b2b}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b878c67bb1adc06c70753b7f1e57129c}{%
+           family={Cranor},
+           familyi={C\bibinitperiod},
+           given={Lorrie},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1abdb7a96b32dc84f4d005ad9724519}
+      \strng{fullhash}{b1abdb7a96b32dc84f4d005ad9724519}
+      \strng{bibnamehash}{b1abdb7a96b32dc84f4d005ad9724519}
+      \strng{authorbibnamehash}{b1abdb7a96b32dc84f4d005ad9724519}
+      \strng{authornamehash}{b1abdb7a96b32dc84f4d005ad9724519}
+      \strng{authorfullhash}{b1abdb7a96b32dc84f4d005ad9724519}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{#WWW07#}
+      \field{title}{{CANTINA}: A Content-Based Approach to Detecting Phishing Web Sites}
+      \field{year}{2007}
+      \verb{file}
+      \verb zhang07www.pdf:www/2007/zhang07www.pdf:PDF
+      \endverb
+      \keyw{phishing}
+    \endentry
+    \entry{phindingphish}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b8238061b3c805be2a30dd55bb11fb21}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b878c67bb1adc06c70753b7f1e57129c}{%
+           family={Cranor},
+           familyi={C\bibinitperiod},
+           given={Lorrie},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9986e1a6903b4495e02aece21e4bbf0d}{%
+           family={Egelman},
+           familyi={E\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0a4da858979600985e15a1565d440b2b}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f255e0a20f7125703df66a2712ec4d02}
+      \strng{fullhash}{b08a1a7500aec46496b03c237d322f0b}
+      \strng{bibnamehash}{f255e0a20f7125703df66a2712ec4d02}
+      \strng{authorbibnamehash}{f255e0a20f7125703df66a2712ec4d02}
+      \strng{authornamehash}{f255e0a20f7125703df66a2712ec4d02}
+      \strng{authorfullhash}{b08a1a7500aec46496b03c237d322f0b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HumanComputer Interaction Institute}
+      \field{month}{1}
+      \field{number}{Paper 76}
+      \field{title}{{Phinding phish: Evaluating anti-phishing tools}}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb http://repository.cmu.edu/hcii/76/
+      \endverb
+      \verb{url}
+      \verb http://repository.cmu.edu/hcii/76/
+      \endverb
+    \endentry
+    \entry{issuesandperspectives}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=5332804820aa42ad252e9c0b5edd37a1}{%
+           family={Zuhair},
+           familyi={Z\bibinitperiod},
+           given={Hiba},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e5c843b04b2097b444846fa4bc802c2e}{%
+           family={Selamat},
+           familyi={S\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{110626edf08b4b7864398e400ab96572}
+      \strng{fullhash}{110626edf08b4b7864398e400ab96572}
+      \strng{bibnamehash}{110626edf08b4b7864398e400ab96572}
+      \strng{authorbibnamehash}{110626edf08b4b7864398e400ab96572}
+      \strng{authornamehash}{110626edf08b4b7864398e400ab96572}
+      \strng{authorfullhash}{110626edf08b4b7864398e400ab96572}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 IEEE Conference on Open Systems (ICOS)}
+      \field{isbn}{978-1-5386-0731-2}
+      \field{month}{11}
+      \field{title}{{Phishing classification models: Issues and perspectives}}
+      \field{year}{2017}
+      \field{pages}{26\bibrangedash 31}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICOS.2017.8280269
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/8280269/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/8280269/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
